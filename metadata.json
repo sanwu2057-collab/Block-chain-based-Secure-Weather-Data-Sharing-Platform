@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain Weather Ledger",
+  "description": "A secure, blockchain-based weather data sharing platform. It fetches real-time and historical weather data, storing critical records on a simulated blockchain for tamper-proof verification, catering to sectors like agriculture, insurance, and disaster management.",
+  "requestFramePermissions": []
+}
